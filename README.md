@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="main">
+        <div class="content">
+            <h1>Лабораторная работа №11</h1><br>
+            <img src = "1.jpeg">
+            <h1>Төкен Диас Тұрарұлы</h1>
+            <p>Студент - Програмист - Патриот</p>
+        </div>
+    </div>
+    <div class="port">
+        <h1>Портфолио</h1>
+        <div id="block-1">
+            <h2>Студент</h2>
+            <ol>
+                <li>Ранее обучался в подготовительном курсе к  ЕНТ и Набрал 120 баллов.</li>
+                <li>Поступил в университет iitu</li>
+                <li>Планирует в будущем учится за границей на магистратуре</li>
+            </ol>
+            </div>
+                <div id="block-2">
+                    <h2>Програмист</h2>
+                    <ol>
+                        <li>Специальность - Software Enginer</li>
+                        <li>В будущем будет изучать язык програмироания GoLang</li>
+                        <li>Сейчас учит язык програмирования С++</li>
+                    </ol>
+                </div>
+        <div id="block-3">
+            <h2>Патриот</h2>
+            <ol>
+                <li>Знает свой родной язык и историю своей страны и уважает их</li>
+                <li>С детства изучает литературу казахского языка</li>
+                <li>Гордится своей национальностью и страной</li>
+            </ol>
+        </div>
+    </div>
+        <div class="block-4">
+            <h1 id="goal">Цели</h1>
+            <h1 id="goal-2">1.В будущем работать в самой известной компании Google<br> 2.Уже к 30 годам стаnm Senior разработчиком<br>3.Открыть масштабный проект во всем мире обучению сфере IT<br>4.Сотрудничать с такими компаниями как Steam,Apple</h1>
+            <img id="Photo1" src="2.webp">
+            <img id="Photo2" src="3.jpg">
+            <img id="Photo3" src="4.png">
+        </div>
+    <div class="conclusion">
+        <h1 id="obr">Обратная Связь</h1>
+        <label id="name">Имя</label>
+        <input type="text">
+        <br>
+        <label id="phone">Телефон</label>
+        <input type="text">
+        <br>
+        <label id="sms">Сообщение</label>
+        <input type="text" >
+        <br>
+        <button type="submit">Oтправить</button>
+        <div class="uved">
+            <h1>Уведомление</h1>
+            <p>Тут вы можете оставить своем Имя,Телефон номер,в разделе сообщение оставить отзыв и идею!<br>
+            Мы обьязательно расмотрим ваш отзыв и идею после свяжимся с вами!</p>
+        </div>
+    </div>
+
+    
+</body>
+</html>
